@@ -48,9 +48,9 @@ async def startprivate(client, message):
     joinButton = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/nacbots"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/mittalbots"),
                 InlineKeyboardButton(
-                    "SUPPORT GROUP", url="https://t.me/n_a_c_bot_developers"
+                    "BOT OWNER", url="https://t.me/soonbotmaker0"
                 ),
             ]
         ]
